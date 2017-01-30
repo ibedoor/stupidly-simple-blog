@@ -2,6 +2,8 @@
 
 A really simple flat file blog thing
 
+![Sample](https://cloud.githubusercontent.com/assets/175278/22441507/9525f26c-e72f-11e6-877e-67b83101c1a7.gif)
+
 ## Another markdown blog project!?
 I wanted to write a blog post, so naturally had to make something that'd turn markdown into html. Some requirements were:
 
