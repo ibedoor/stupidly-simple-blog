@@ -1,0 +1,26 @@
+{
+  "name": "simple-markdown-blog",
+  "version": "1.0.0",
+  "description": "A simple flat file blog using markdown",
+  "main": "index.js",
+  "repository": {},
+  "author": "Will Monk",
+  "license": "MIT",
+  "bin": {
+    "simple-blog": "index.js"
+  },
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "flow-bin": "^0.38.0",
+    "handlebars": "^4.0.6",
+    "highlight.js": "^9.9.0",
+    "markdown-it": "^8.2.2",
+    "markdown-it-container": "^2.0.0",
+    "markdown-it-for-inline": "^0.1.1",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
+    "meow": "^3.7.0",
+    "mustache": "^2.3.0",
+    "yargs": "^6.6.0"
+  }
+}
