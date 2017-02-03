@@ -1,5 +1,5 @@
 {
-  "name": "simple-markdown-blog",
+  "name": "stupidly-simple-blog",
   "version": "1.0.0",
   "description": "A simple flat file blog using markdown",
   "main": "index.js",
@@ -10,10 +10,12 @@
     "simple-blog": "index.js"
   },
   "dependencies": {
+    "camelcase": "^4.0.0",
     "chokidar": "^1.6.1",
     "flow-bin": "^0.38.0",
     "handlebars": "^4.0.6",
     "highlight.js": "^9.9.0",
+    "lodash.kebabcase": "^4.1.1",
     "markdown-it": "^8.2.2",
     "markdown-it-container": "^2.0.0",
     "markdown-it-for-inline": "^0.1.1",
